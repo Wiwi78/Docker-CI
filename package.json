@@ -1,0 +1,17 @@
+{
+  "name": "docker-cd",
+  "version": "1.0.0",
+  "description": "Docker continous integration app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ouissam Boussekaya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.3",
+    "jade": "1.11.0",
+    "mocha": "3.4.2",
+    "supertest": "3.0.0"
+  }
+}
